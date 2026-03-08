@@ -1,9 +1,10 @@
 # Register
 
-两个注册机汇总：
+三个注册机汇总：
 
 - `openai-register/`：OpenAI 自动注册脚本（详见目录内 README）
 - `grok-register/`：Grok (x.ai) 注册机（详见目录内 README）
+- `tavily-register/`：Tavily 自动注册脚本，现已接入 YesCaptcha 验证码识别、GPTMail 邮箱验证，并内置单 IP 限速保护（每 6 个等待 90 分钟）
 
 ### 📢 关注我的频道
 
