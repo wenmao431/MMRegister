@@ -20,7 +20,7 @@
 - YesCaptcha 推荐注册链接（grok Turnstile 云解）：https://yescaptcha.com/i/tlkF6o
 
 ### 💬 交流与反馈
-- TG 频道：@MasterAlanLab
+- TG 频道：https://t.me/MasterAlanLab
 - 技术问题：提 Issue；
 - 合作/建议：平台私信或留言。
 
