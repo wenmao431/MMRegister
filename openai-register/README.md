@@ -4,11 +4,11 @@
 
 ## 环境要求
 - Python 3.9+（建议虚拟环境）
-- 依赖：`curl_cffi`
+- 依赖：`curl_cffi`、`requests`
 
 ## 运行步骤
 1. 激活虚拟环境：`source venv/bin/activate`（若已创建）
-2. 安装依赖：`pip install curl_cffi`
+2. 安装依赖：`pip install curl_cffi requests`
 3. 执行示例：
    ```bash
    GPTMAIL_API_KEY=你的key python openai_register.py --proxy http://127.0.0.1:7890
